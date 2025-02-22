@@ -8,7 +8,7 @@
 
 ## Package an App with CodeBuild
 
-![Image](aws-devops-codebuild_52365514)
+![Image](https://github.com/alleem18/P5-PackageApp_with_Codebuild/blob/main/A6C90772-E7DD-4EF3-B46A-E8DBD5BF9B99_1_201_a.jpeg)
 
 ---
 
